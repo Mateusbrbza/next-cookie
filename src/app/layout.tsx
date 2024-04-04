@@ -6,8 +6,8 @@ import Navbar from "@/components/navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Lama Dev",
-  description: "Next.js Auth Example",
+  title: "Marco Mama",
+  description: "Auth Example",
 };
 
 export default function RootLayout({
